@@ -1,4 +1,4 @@
-i got bored writing this so it just does the one key thats hard coded. I probably won't even come back to this. 
+i got bored writing this so it just does the one key thats hard coded. I probably won't ever do anything about that. 
 
 # KMS Server Manager
 
